@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9420b527ed9320d4a939c19a7c0adf84, type: 3}
+  m_Name: plane2
+  m_EditorClassIdentifier: 
+  mark: AIRBUS A320
+  mass: 86500
+  maxSpeed: 900
+  type: PLANE
+  brand: AIRBUS
+  country: "\u0424\u0440\u0430\u043D\u0446\u0438\u044F"
+  typePlane: "\u043F\u0430\u0441\u0441\u0430\u0436\u0438\u0440\u0441\u043A\u0438\u0439"
+  loadCapacity: 19200
+  capacity: 180
+  maxDistance: 8200
